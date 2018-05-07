@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLabFinal", "CodeLabFinal.csproj", "{B423C130-DACD-D1FA-4EBD-CCCD9A69D7C8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLabFinal.Editor", "CodeLabFinal.Editor.csproj", "{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLabFinal.Editor", "CodeLabFinal.Editor.csproj", "{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}"
 EndProject
@@ -21,12 +21,11 @@ Global
 		{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F3586F03-EA9B-4F4A-4F37-70A538D93FE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1808A178-8157-40A6-A593-0C59796FCB4A}
 	EndGlobalSection
 EndGlobal
